@@ -13,6 +13,8 @@
 		86C0E4C124CD7BAA0049A7EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86C0E4C024CD7BAA0049A7EA /* Assets.xcassets */; };
 		86C0E4C424CD7BAA0049A7EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86C0E4C324CD7BAA0049A7EA /* Preview Assets.xcassets */; };
 		86C0E4C724CD7BAA0049A7EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86C0E4C524CD7BAA0049A7EA /* LaunchScreen.storyboard */; };
+		86D828C724CDC7950066D779 /* ViewRGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D828C624CDC7950066D779 /* ViewRGB.swift */; };
+		86D828CB24CE09220066D779 /* ControlsRGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D828CA24CE09220066D779 /* ControlsRGB.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		86C0E4C324CD7BAA0049A7EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		86C0E4C624CD7BAA0049A7EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86C0E4C824CD7BAA0049A7EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86D828C624CDC7950066D779 /* ViewRGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRGB.swift; sourceTree = "<group>"; };
+		86D828CA24CE09220066D779 /* ControlsRGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlsRGB.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				86C0E4BA24CD7BA70049A7EA /* AppDelegate.swift */,
 				86C0E4BC24CD7BA70049A7EA /* SceneDelegate.swift */,
 				86C0E4BE24CD7BA70049A7EA /* ContentView.swift */,
+				86D828C624CDC7950066D779 /* ViewRGB.swift */,
+				86D828CA24CE09220066D779 /* ControlsRGB.swift */,
 				86C0E4C024CD7BAA0049A7EA /* Assets.xcassets */,
 				86C0E4C524CD7BAA0049A7EA /* LaunchScreen.storyboard */,
 				86C0E4C824CD7BAA0049A7EA /* Info.plist */,
@@ -148,6 +154,8 @@
 			files = (
 				86C0E4BB24CD7BA70049A7EA /* AppDelegate.swift in Sources */,
 				86C0E4BD24CD7BA70049A7EA /* SceneDelegate.swift in Sources */,
+				86D828CB24CE09220066D779 /* ControlsRGB.swift in Sources */,
+				86D828C724CDC7950066D779 /* ViewRGB.swift in Sources */,
 				86C0E4BF24CD7BA70049A7EA /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
